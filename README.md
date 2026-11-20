@@ -6,11 +6,9 @@ Computer Science MSci at Royal Holloway, finishing June 2027. International fina
 
 ### Things I've built
 
-| | |
-| --- | --- |
-| [homepod-desk-clock](https://github.com/thelidlman/homepod-desk-clock) | ESP8266 firmware for a desk clock that shows the time, the weather and what a HomePod is playing |
-| [agentic-compiler](https://github.com/thelidlman/agentic-compiler) | A tiny typed language that compiles to readable Python |
-| [Instagram-Analyser](https://github.com/thelidlman/Instagram-Analyser) | Analyses your Instagram DM export entirely in the browser |
+- **[homepod-desk-clock](https://github.com/thelidlman/homepod-desk-clock)**: ESP8266 firmware for a desk clock that shows the time, the weather and what a HomePod is playing
+- **[agentic-compiler](https://github.com/thelidlman/agentic-compiler)**: a tiny typed language that compiles to readable Python
+- **[Instagram-Analyser](https://github.com/thelidlman/Instagram-Analyser)**: analyses your Instagram DM export entirely in the browser
 
 Right now I'm wiring a Raspberry Pi into my car to log OBD-II and GPS data.
 
